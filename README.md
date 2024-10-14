@@ -5,7 +5,7 @@
 </a>
 
 <br>
-<p> The Walmart Sales dataset offers a comprehensive view of retail sales performance, including information on various store locations, sales figures, promotional events, and economic factors. This EDA aims to uncover insights and trends within the dataset to better understand customer behavior, sales patterns, and seasonal effects.</p>
+<p> The Walmart Sales dataset is composed of historical data across different store locations from the time 2010-2012. It contains a comprehensive view of retail sales performance, including information on various store locations, sales figures, promotional events, and economic factors. This EDA aims to uncover insights and trends within the dataset to better understand customer behavior, sales patterns, and seasonal effects.</p>
 <br>
 <p>Jupyter Notebook was used to visualize outputs of live code and oragnize sections of analysis. Python was used in this analysis along with the libraries: Scipy, Pandas, Seaborn, and Matplotlib. Six aspects were analyzed in the EDA:
 <ol>
