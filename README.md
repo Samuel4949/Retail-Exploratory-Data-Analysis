@@ -7,7 +7,7 @@
 <br>
 <p> The Walmart Sales dataset is composed of historical data across different store locations from the time 2010-2012. It contains a comprehensive view of retail sales performance, including information on various store locations, sales figures, promotional events, and economic factors. This EDA aims to uncover insights and trends within the dataset to better understand customer behavior, sales patterns, and seasonal effects.</p>
 <br>
-<p>Jupyter Notebook was used to visualize outputs of live code and oragnize sections of analysis. Python was used in this analysis along with the libraries: Scipy, Pandas, Seaborn, and Matplotlib. Six aspects were analyzed in the EDA:
+<p>Jupyter Notebook was used to visualize outputs of live code and oragnize sections of analysis. Python was used in this analysis along with the libraries: SciPy, Pandas, Seaborn, and Matplotlib. Six aspects were analyzed in the EDA:
 <ol>
  <li>Which store has maximum sales</li>
   <br>
@@ -25,7 +25,7 @@
 <hr>
 <h2>Features</h2>
 <ol>
- <li>Scipy - Used to find coefficient of determination of linear regression model</li>
+ <li>SciPy - Used to find coefficient of determination of linear regression model</li>
  <a><img src = "https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width = 40 height = 40></a>
  <br>
  <li>Pandas - Used to create dataframes of data and provide statistical analysis by rearranging, cleaning, and aggregating data to be better suited for graphing</li>
